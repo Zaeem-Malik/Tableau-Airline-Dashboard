@@ -46,13 +46,20 @@ Step 3:
 <br />
 
 Step 4: 
-- We will begin by opening the ba_reviews.csv file and browsing the content.  <br/>
-<img src="https://i.imgur.com/fkcLrmy.png" height="80%" width="80%" alt="moniter issue ticket"/>
+- We will create a parameter to allow the user to filter by certain metrics.  <br/>
+<img src="https://i.imgur.com/vroVGfw.png" height="80%" width="80%" alt="moniter issue ticket"/>
 <br />
 <br />
 
 Step 5: 
-- We will begin by opening the ba_reviews.csv file and browsing the content.  <br/>
-<img src="https://i.imgur.com/fkcLrmy.png" height="80%" width="80%" alt="moniter issue ticket"/>
+- Next we will create a calculated field so when the user click 'overall ratings' for example, we will display that data.   <br/>
+<img src="https://i.imgur.com/BWQziuU.png" height="80%" width="80%" alt="moniter issue ticket"/>
+<br />
+<br />
+
+Step 5: 
+- Drag the calculated field to color and select average. Now when the user click on a metric is shows each rating by country indicated by color.
+- We will clean the map by changing background map to normal, set 'Washout' to 50%, check the box next to coastlines and uncheck both next to state.    <br/>
+<img src="https://i.imgur.com/ZEdrd5B.png" height="80%" width="80%" alt="moniter issue ticket"/>
 <br />
 <br />
