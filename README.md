@@ -28,15 +28,31 @@ Demonstrate hands-on experience with:
 ### Steps
 
 Step 1: 
-- Troubleshot the issue and notified the user when resolved
-- Documented the issue and closed the ticket <br/>
-<img src="https://i.imgur.com/3OHmQzx.png" height="80%" width="80%" alt="moniter issue ticket"/>
+- We will begin by opening the ba_reviews.csv file and browsing the content.  <br/>
+<img src="https://i.imgur.com/fkcLrmy.png" height="80%" width="80%" alt="moniter issue ticket"/>
 <br />
 <br />
 
 Step 2: 
-- Escalated the ticket to the database adminitrator 
-- Documented the issue and gave as much information as possible <br/>
-<img src="https://i.imgur.com/QmzEDWC.png" height="80%" width="80%" alt="financial database issue ticket"/>
+- Next we will drag counties.csv next to ba_reviews and establish the realtionship between them, with ba_reviews as 'place' and countires as 'country'. <br/>
+<img src="https://i.imgur.com/etJaZMl.png" height="80%" width="80%" alt="financial database issue ticket"/>
+<br />
+<br />
+
+Step 3: 
+- Go to sheet 1, first we will change 'places' data type from text to county/reigon. It's important to ensure the correct data type for all our data. Double click on places to populate the map.    <br/>
+<img src="https://i.imgur.com/i1K0HLE.png" height="80%" width="80%" alt="moniter issue ticket"/>
+<br />
+<br />
+
+Step 4: 
+- We will begin by opening the ba_reviews.csv file and browsing the content.  <br/>
+<img src="https://i.imgur.com/fkcLrmy.png" height="80%" width="80%" alt="moniter issue ticket"/>
+<br />
+<br />
+
+Step 5: 
+- We will begin by opening the ba_reviews.csv file and browsing the content.  <br/>
+<img src="https://i.imgur.com/fkcLrmy.png" height="80%" width="80%" alt="moniter issue ticket"/>
 <br />
 <br />
